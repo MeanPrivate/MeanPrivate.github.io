@@ -16,10 +16,10 @@ minimal_mistakes_skin    : "aqua" # "air", "aqua", "contrast", "dark", "dirt", "
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Mj's Log"
+title                    : "Mj's Blog"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : "Your Name"
+name                     : "Park Min Ju"
 description              : "An amazing website."
 url                      : "https://MeanPrivate.github.io"
 baseurl                  : # "/example"
