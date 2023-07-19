@@ -20,7 +20,7 @@ title                    : "Mj's Blog"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Park Min Ju"
-description              : "An amazing website."
+description              : # "An amazing website."
 url                      : "https://MeanPrivate.github.io"
 baseurl                  : # "/example"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
