@@ -12,15 +12,15 @@
 
 # theme                  : "minimal-mistakes-jekyll"
 # remote_theme           : "mmistakes/minimal-mistakes"
-minimal_mistakes_skin    : "aqua" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+minimal_mistakes_skin    : "contrast" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
-locale                   : "Ko-KR"
-title                    : " "
-title_separator          : "-"
+locale                   : "ko-KR"
+title                    : "MJ's Blog"
+title_separator          : "|"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Park Min Ju"
-description              : # "An amazing website."
+description              : "민주의 개발 블로그 입니다."
 url                      : "https://MeanPrivate.github.io"
 baseurl                  : # "/example"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
