@@ -17,8 +17,8 @@ minimal_mistakes_skin    : "contrast" # "air", "aqua", "contrast", "dark", "dirt
 # Site Settings
 locale                   : "ko-KR"
 title                    : "MJ's Blog"
-title_separator          : "|"
-subtitle                 : # site tagline that appears below site title in masthead
+title_separator          : "/"
+subtitle                 : "Be gentle first with yourself."
 name                     : "Park Min Ju"
 description              : "민주의 개발 블로그 입니다."
 url                      : "https://MeanPrivate.github.io"
@@ -108,7 +108,7 @@ author:
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "**contact:** mj_prime@naver.com"
   location         : "South Korea,"
-  email            : "mj_prime@naver.com"
+  email            : # "mj_prime@naver.com"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
